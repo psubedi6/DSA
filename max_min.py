@@ -1,5 +1,5 @@
 """
-Problem: Find Maximum and Minimum in Array
+Problem: Find Maximum and Minimum
 Difficulty: Easy
 
 Time Complexity: O(n)
