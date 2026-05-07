@@ -1,4 +1,10 @@
-##Find the second smallest element in an array.
+"""
+Problem: Find second minimum number
+Difficulty: Easy
+
+Time Complexity: O(n)
+Space Complexity: O(1)
+"""
 def second_minimum(arr):
     minimum = float('inf')
     second_minimum = float('inf')
