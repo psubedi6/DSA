@@ -9,7 +9,7 @@ def find_minimum(arr):
     minimum = arr[0]
     for num in arr:
         if num < minimum:
-            minimum = i
+            minimum = num
     return minimum
 numbers = [23,3,6,8,3,8,9,5,5,4]
 minimum = find_minimum(numbers)
