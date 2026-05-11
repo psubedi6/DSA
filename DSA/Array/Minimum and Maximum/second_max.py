@@ -5,7 +5,7 @@ Difficulty: Easy
 Time Complexity: O(n)
 Space Complexity: O(1)
 """
-
+#practice problem
 def second_max(arr):
     maximum= float('-inf')
     second_maximum = float('-inf')
