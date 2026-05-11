@@ -5,6 +5,7 @@ Difficulty: Easy
 Time Complexity: O(n)
 Space Complexity: O(1)
 """
+#practice question 
 def smallest_negative_number(arr):
     smallest_negative= float("inf")
     for num in arr:
