@@ -5,6 +5,7 @@ Difficulty: Easy
 Time Complexity: O(n)
 Space Complexity: O(1)
 """
+#practice question 
 def second_minimum(arr):
     minimum = float('inf')
     second_minimum = float('inf')
