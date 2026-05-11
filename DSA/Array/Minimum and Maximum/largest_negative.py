@@ -5,6 +5,7 @@ Difficulty: Easy
 Time Complexity: O(n)
 Space Complexity: O(1)
 """
+# practice problem
 def largest_negative_number(arr):
     largest_negative= float("-inf")
     for num in arr:
